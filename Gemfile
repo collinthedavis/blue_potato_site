@@ -23,4 +23,4 @@ group :development do
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
